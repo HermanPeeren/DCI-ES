@@ -1,0 +1,4 @@
+{"require": {
+    "broadway/broadway": "0.3.*@dev"
+    }
+}
